@@ -76,8 +76,3 @@ Execute the app:
 
 flutter run
 
-📌 Author
-
-Aditya Jaiswal
-B.Tech CSE (Network & Cybersecurity)
-Galgotias University
